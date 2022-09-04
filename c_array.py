@@ -13,6 +13,10 @@ c = a+b
 print(c)
 
 
+#method 2
+c1 = np.add(a,b)
+print(c1)
+
 # In[ ]:
 
 
